@@ -1,0 +1,9 @@
+/target/*
+/target/test-classes/*
+/test-output/*
+/logs/*
+/.idea/
+/.settings/
+/*.html
+/*.txt
+
