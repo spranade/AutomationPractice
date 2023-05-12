@@ -30,7 +30,7 @@ public class Operations {
 	        .addSystemInfo("User Name", "Swanand Ranade");
 		logger=report.startTest("Smoke Test", "Smoke Test");
 		LaunchApplication app = new LaunchApplication();
-		app.launchBrowser(browser, "D:\\selenium\\JARS\\chromedriver.exe");
+		app.launchBrowser(browser, "E:\\selenium\\JARS\\chromedriver.exe");
 		//HTMLReportGenerator.TestCaseStart("Smoke Test","Smoke Test");
 		
 	}
