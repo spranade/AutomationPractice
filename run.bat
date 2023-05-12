@@ -1,3 +1,3 @@
-set projectLocation=E:\workspace-selenium\AutomationPractice
+set projectLocation=E:/eclipse-workspace/AutomationPractice
 cd %projectLocation%
-mvn test -Dcucumber.options="E:/workspace-selenium/AutomationPractice/src/test/resources/FeatureCollections"
+mvn test -Dcucumber.options="E:/eclipse-workspace/AutomationPractice/src/test/resources/FeatureCollections"
